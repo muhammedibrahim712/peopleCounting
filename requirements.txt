@@ -50,7 +50,7 @@ numba==0.45.1
 numpy==1.17.1
 oauthlib==1.0.3
 onboard==1.2.0
-opencv-python==4.1.0.25
+opencv-python==4.1.1.26
 padme==1.1.1
 pexpect==4.0.1
 Pillow==6.1.0
