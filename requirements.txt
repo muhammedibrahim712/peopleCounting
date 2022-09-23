@@ -55,7 +55,7 @@ padme==1.1.1
 pexpect==4.0.1
 Pillow==6.1.0
 plainbox==0.25
-protobuf==3.9.2
+protobuf==3.18.3
 psutil==5.6.3
 ptyprocess==0.5
 pyasn1==0.1.9
